@@ -1,0 +1,24 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/apple/Documents/Bunny/raylib/3dgame",
+            "binaryPath": "/Users/apple/Documents/Bunny/raylib/3dgame/maze",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/Users/apple/Documents/Bunny/raylib/3dgame",
+            "binaryPath": "/Users/apple/Documents/Bunny/raylib/3dgame/try",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/Users/apple/Documents/Bunny/raylib/3dgame",
+            "binaryPath": "/Users/apple/Documents/Bunny/raylib/3dgame/pong",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "stdio.h": "c",
+        "*.m": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
